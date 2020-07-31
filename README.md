@@ -1,3 +1,22 @@
+# KDD Cup 2020 Challenges for Modern E-Commerce Platform: Multimodalities Recall
+
+### Team: MTDP_CVA
+
+Members: Kai Zuo, Chao Ma, Dongshuai Li, Zuo Cao, Xing Xu
+
+### Introduction
+
+![Alt text](https://github.com/zuokai/KDDCUP_2020_MultimodalitiesRecall_2nd_Place/blob/master/pics/1596178061922-image.png)
+
+the official have prepared the real-scenario multimodal data from the mobile Taobao. The dataset consists of Taobao search 
+queries and product image features, which is organized into a query-based multimodal retrieval task.The whole training set 
+consists of 3M pairs of query and ground-truth product image features. These sample pairs can be taken as the positive 
+examples to train your retrieval model. For each product image, the official release the features, locations and 
+classification labels of each detected object.
+See more details: https://tianchi.aliyun.com/competition/entrance/231786/information
+
+### Codes
+
 ```
 kdd_evaluate_ensemble 
   |--external_resources

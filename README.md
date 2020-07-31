@@ -1,3 +1,4 @@
+```
 kdd_evaluate_ensemble 
   |--external_resources
   |--user_data
@@ -25,6 +26,7 @@ kdd_evaluate_ensemble
      |--model_attention_kdd_am_word_match_finetune_valid.ckpt-251.meta
   |--prediction_result
   |--code
+```
 
 cuda 9.0.176
 cudnn 7.1.4

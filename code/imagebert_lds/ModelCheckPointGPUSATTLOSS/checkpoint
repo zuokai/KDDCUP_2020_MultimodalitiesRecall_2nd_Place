@@ -1,0 +1,3 @@
+model_checkpoint_path: "ImageBertKDD.ckpt-90002"
+all_model_checkpoint_paths: "ImageBertKDD.ckpt-85002"
+all_model_checkpoint_paths: "ImageBertKDD.ckpt-90002"

@@ -47,7 +47,7 @@ numpy==1.16.6
 opencv-python==4.2.0.32
 opt-einsum==2.3.2
 pandas==0.24.2
-Pillow==6.2.2
+Pillow==9.0.1
 ply==3.11
 protobuf==3.11.3
 psutil==5.7.0
